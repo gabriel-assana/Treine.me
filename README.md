@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="./src/assets/treineMe.png" height="100px" alt="Treine.me"/>
+  <img src="images/treineMe.png" height="100px" alt="Treine.me"/>
 </h1>
 
 <h2 align="center" >Descrição do Projeto</h2>
 <p align="center">
-  O Moveis Customizados é 2° desafio do Nivel 02 do programa Explorer da Rockeseat.
+  O Treine.me é 2° desafio do Nivel 02 do programa Explorer da Rockeseat.
 </p>
 </br>
 
 <div align="center">
-   <p>Desafio tem como principal objetivo a correção dos bugs no layout, utilizando os conhecimentos adquiridos com as tecnologias de HTML e CSS com conceito do flebox.</p>
+   <p>Desafio tem como principal objetivo a correção dos bugs no layout, utilizando os conhecimentos adquiridos com as tecnologias de HTML e CSS com conceitos do flebox.</p>
 </div>
   <h3 align="center">Layout antes dos ajustes:</h3>
        
