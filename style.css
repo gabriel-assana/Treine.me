@@ -16,7 +16,7 @@ body {
   
   nav {
     display: flex;
-    justify-content: start;
+    justify-content: space-between;
     align-items: center;
   
     margin-bottom: 15px;
@@ -25,10 +25,11 @@ body {
   ul {
     display: flex;
     list-style: none;
+    gap: 48px;
     margin: 0;
     padding: 0;
   }
-  
+
   a {
     color: #1f1534;
     text-decoration: none;
@@ -42,6 +43,12 @@ body {
     font-weight: bold;
     opacity: 1;
   }
+
+
+  li + li {
+
+  }
+
   
   h1,
   ul {
